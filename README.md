@@ -1,4 +1,4 @@
-![Screenshot 2025-07-03 205910](https://github.com/user-attachments/assets/75b8a8ea-fd12-4012-9599-8eab8dd7f431)# 🎫 Ticket Booking System
+🎫 Ticket Booking System
 
 A web-based booking and appointment management system built with **Django**, allowing users to register, log in, and book services with calendar and time-slot selection. Admins can manage users and monitor all bookings from the admin panel.
 
@@ -10,10 +10,7 @@ A web-based booking and appointment management system built with **Django**, all
 
 | Registration | Login | Dashboard |
 |--------------|-------|-----------|
-| ![Register](![Screenshot 2025-07-03 205920](https://github.com/user-attachments/assets/2aab7cc6-8577-4ddf-8cb2-9a89dfe22f4b)) |
-![Login](![Screenshot 2025-07-03 205910](https://github.com/user-attachments/assets/d242c24e-2cc0-4b91-839d-01566ce4c444)) |
-![Admin](![Screenshot 2025-07-03 205930](https://github.com/user-attachments/assets/6a689458-2f73-4bd4-8896-4f484dd69baf)) |
-![Dashboard](![Screenshot 2025-07-03 205939](https://github.com/user-attachments/assets/c45a6229-3c46-46fb-a6ac-9217eece31e2)) |
+| ![Register](![Screenshot 2025-07-03 205920](https://github.com/user-attachments/assets/2aab7cc6-8577-4ddf-8cb2-9a89dfe22f4b)) |![Login](![Screenshot 2025-07-03 205910](https://github.com/user-attachments/assets/d242c24e-2cc0-4b91-839d-01566ce4c444)) |![Admin](![Screenshot 2025-07-03 205930](https://github.com/user-attachments/assets/6a689458-2f73-4bd4-8896-4f484dd69baf)) |![Dashboard](![Screenshot 2025-07-03 205939](https://github.com/user-attachments/assets/c45a6229-3c46-46fb-a6ac-9217eece31e2)) |
 
 ---
 
