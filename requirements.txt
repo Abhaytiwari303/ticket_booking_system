@@ -1,0 +1,7 @@
+django
+django-environ
+psycopg2-binary
+channels
+channels_redis
+Django==5.x
+Pillow
