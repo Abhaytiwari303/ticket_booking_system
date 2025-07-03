@@ -68,26 +68,26 @@ ticket_booking_system/
 ## ⚙️ Installation
 
 1. **Clone the repo**
-git clone https://github.com/Abhaytiwari303/ticket_booking_system.git
-cd ticket_booking_system
+- git clone https://github.com/Abhaytiwari303/ticket_booking_system.git
+- cd ticket_booking_system
 
 #Create & activate virtual environment
-python -m venv venv
-venv\Scripts\activate   # On Windows
+- python -m venv venv
+- venv\Scripts\activate   # On Windows
 
 #  Install requirements
 pip install -r requirements.txt
 
 # Migrate database
-python manage.py makemigrations
-python manage.py migrate
+- python manage.py makemigrations
+- python manage.py migrate
 
 # Create superuser
 python manage.py runserver
 
 # Access app
-Frontend: http://127.0.0.1:8000/
-Admin:    http://127.0.0.1:8000/admin/
+- Frontend: http://127.0.0.1:8000/
+- Admin:    http://127.0.0.1:8000/admin/
 
 ## API Endpoints
 | URL                  | Description                    |
